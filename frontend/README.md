@@ -1,6 +1,6 @@
 # React + Vite
 
-cd ems-frontend
-npm run dev
+### cd frontend
+### npm run dev
 
-rafce
+`rafce`
