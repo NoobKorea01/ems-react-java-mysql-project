@@ -9,11 +9,11 @@ Full-stack CRUD приложение для управления сотрудн�
 ### 🧑‍💼 Список сотрудников
 ![Employees List](screenshots/employees-list.png)
 
-### ✏️ Обновление сотрудника
-![Update Employee](screenshots/update-employee.png)
-
 ### ➕ Добавление сотрудника
 ![Add Employee](screenshots/add-employee.png)
+
+### ✏️ Обновление сотрудника
+![Update Employee](screenshots/update-employee.png)
 
 ---
 
@@ -94,6 +94,8 @@ http://localhost:8080
 
 ```bash
 docker-compose up -d
+
+create database ems;
 ```
 
 ---
